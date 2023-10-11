@@ -15,6 +15,7 @@ on:
 
 jobs:
   build:
+
     runs-on: ubuntu-latest
     if: github.repository_owner == 'alshedivat'
 
@@ -41,3 +42,4 @@ jobs:
           push: true
           platforms: linux/amd64,linux/arm64/v8
           tags: amirpourmand/al-folio
+
