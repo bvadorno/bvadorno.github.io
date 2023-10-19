@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: _Senior Lecturer in Robotics and Sellafield / Royal Academy of Engineering Senior Research Fellow in Cooperative Legged Robots in Challenging Environments_
+subtitle: <i>Senior Lecturer in Robotics and Sellafield / Royal Academy of Engineering Senior Research Fellow in Cooperative Legged Robots in Challenging Environments</i>
 
 profile:
   align: right
