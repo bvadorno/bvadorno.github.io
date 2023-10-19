@@ -2,25 +2,36 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Senior Lecturer in Robotics at [The University of Manchester](https://www.manchester.ac.uk/) and Sellafield / Royal Academy of Engineering Senior Research Fellow in Cooperative Legged Robots in Challenging Environments
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Edinburgh-Dec-2021.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Engineering Building A, 3rd floor, Core 1 East, Office 1</p>
+    <p>The University of Manchester</p>
+    <p>Oxford Road</p>
+    <p>Manchester, United Kingdom, M13 9PL </p>
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I’m a Senior Lecturer in Robotics (equivalent to Associate Professor) with the [Department of Electrical and Electronic Engineering][#1] at [The University of Manchester][#2] and Sellafield / Royal Academy of Engineering Senior Research Fellow in Cooperative Legged Robots in Challenging Environments.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+[#1]: https://www.eee.manchester.ac.uk/
+[#2]: https://www.manchester.ac.uk/
+[#3]: https://ufmg.br/
+[#4]: https://www.linkedin.com/company/macroufmg/
+[#5]: https://bvadorno.github.io/projects/
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Before joining The University of Manchester, I was an associate professor with the Department of Electrical Engineering at the Federal University of Minas Gerais ([UFMG][#3]), Brazil, where I co-founded and co-led the Mechatronics, Control, and Robotics research group ([MACRO][#4]). 
+
+I’m an IEEE Senior Member and Associate Editor for the IEEE Robotics and Automation Letters. From 2017—2020, I was the chair of the Technical Committee on Robotics of the Brazilian Society of Automatics.
+
+I received both a five-year BSc degree (2005) in Mechatronics Engineering and a research MSc degree (2008) in Electrical Engineering from the [University of Brasilia](https://unb.br/) (Brazil) and a PhD degree (2011) from the [University of Montpellier](https://www.umontpellier.fr/en/) (France).
+
+My current research interests include both practical and theoretical aspects of robot kinematics, dynamics, and control with applications to mobile manipulators, legged robots, and cooperative manipulation systems. A more comprehensive description of my research, including videos, is in the [projects section](https://bvadorno.github.io/projects/).
