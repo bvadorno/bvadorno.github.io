@@ -2,18 +2,20 @@
 layout: about
 title: about
 permalink: /
-subtitle: Senior Lecturer in Robotics at [The University of Manchester](https://www.manchester.ac.uk/) and Sellafield / Royal Academy of Engineering Senior Research Fellow in Cooperative Legged Robots in Challenging Environments
+subtitle: Senior Lecturer in Robotics at The University of Manchester and Sellafield / Royal Academy of Engineering Senior Research Fellow in Cooperative Legged Robots in Challenging Environments
 
 profile:
   align: right
   image: Edinburgh-Dec-2021.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
+    <h6>
     <p>3rd floor, Core 1E, Office 1</p>
     <p>Engineering Building A</p>
     <p>University of Manchester</p>
     <p>Oxford Road</p>
     <p>Manchester, UK, M13 9PL </p>
+    </h6>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
