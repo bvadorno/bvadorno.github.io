@@ -9,10 +9,11 @@ profile:
   image: Edinburgh-Dec-2021.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Engineering Building A, 3rd floor, Core 1 East, Office 1</p>
-    <p>The University of Manchester</p>
+    <p>3rd floor, Core 1E, Office 1</p>
+    <p>Engineering Building A</p>
+    <p>University of Manchester</p>
     <p>Oxford Road</p>
-    <p>Manchester, United Kingdom, M13 9PL </p>
+    <p>Manchester, UK, M13 9PL </p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -32,6 +33,6 @@ Before joining The University of Manchester, I was an associate professor with t
 
 I’m an IEEE Senior Member and Associate Editor for the IEEE Robotics and Automation Letters. From 2017—2020, I was the chair of the Technical Committee on Robotics of the Brazilian Society of Automatics.
 
-I received both a five-year BSc degree (2005) in Mechatronics Engineering and a research MSc degree (2008) in Electrical Engineering from the [University of Brasilia](https://unb.br/) (Brazil) and a PhD degree (2011) from the [University of Montpellier](https://www.umontpellier.fr/en/) (France).
+I received both a five-year BSc degree (2005) in Mechatronic Engineering and a research MSc degree (2008) in Electrical Engineering from the [University of Brasilia](https://unb.br/) (Brazil) and a PhD degree (2011) from the [University of Montpellier](https://www.umontpellier.fr/en/) (France).
 
 My current research interests include both practical and theoretical aspects of robot kinematics, dynamics, and control with applications to mobile manipulators, legged robots, and cooperative manipulation systems. A more comprehensive description of my research, including videos, is in the [projects section](https://bvadorno.github.io/projects/).
