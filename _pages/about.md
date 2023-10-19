@@ -33,7 +33,7 @@ I’m a Senior Lecturer in Robotics (equivalent to Associate Professor) with the
 
 Before joining The University of Manchester, I was an associate professor with the Department of Electrical Engineering at the Federal University of Minas Gerais ([UFMG][#3]), Brazil, where I co-founded and co-led the Mechatronics, Control, and Robotics research group ([MACRO][#4]). 
 
-I’m an IEEE Senior Member and Associate Editor for the IEEE Robotics and Automation Letters. From 2017—2020, I was the chair of the Technical Committee on Robotics of the Brazilian Society of Automatics.
+I’m an IEEE Senior Member and Associate Editor for the IEEE Robotics and Automation Letters ([IEEE RA-L](https://www.ieee-ras.org/publications/ra-l)). From 2017—2020, I was the chair of the Technical Committee on Robotics of the Brazilian Society of Automatics ([SBA](https://www.sba.org.br/)).
 
 I received both a five-year BSc degree (2005) in Mechatronic Engineering and a research MSc degree (2008) in Electrical Engineering from the [University of Brasilia](https://unb.br/) (Brazil) and a PhD degree (2011) from the [University of Montpellier](https://www.umontpellier.fr/en/) (France).
 
