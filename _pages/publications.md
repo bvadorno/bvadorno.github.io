@@ -6,7 +6,7 @@ description: publications by categories in reversed chronological order. generat
 group_by: type
 sort_by: year
 order: descending
-nav: false
+nav: true
 nav_order: 1
 ---
 <!-- _pages/publications.md -->
