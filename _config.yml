@@ -295,7 +295,7 @@ scholar:
   query: "@*"
   group_by: type, year
   group_order: descending
-  type_order: [article, techreport, recollection, inproceedings]
+  type_order: [thesis, inproceedings, incollection, techreport, article]
 
 # Display different badges withs stats for your publications
 enable_publication_badges:
