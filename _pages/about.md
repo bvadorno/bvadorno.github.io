@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Senior Lecturer in Robotics at The University of Manchester and Sellafield / Royal Academy of Engineering Senior Research Fellow in Cooperative Legged Robots in Challenging Environments
+subtitle: _Senior Lecturer in Robotics and Sellafield / Royal Academy of Engineering Senior Research Fellow in Cooperative Legged Robots in Challenging Environments_
 
 profile:
   align: right
