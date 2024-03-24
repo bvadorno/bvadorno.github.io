@@ -2,6 +2,6 @@ github_users:
   - bvadorno
   
 github_repos:
-  - dqrobotics/pyhton
+  - dqrobotics/python
   - dqrobotics/matlab
   - dqrobotics/cpp
