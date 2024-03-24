@@ -17,7 +17,7 @@ nav_order: 2
 
 </div>
 
-# Peer-reviewed international conference papers
+### Peer-reviewed international conference papers
 
 <div class="publications">
 
@@ -25,7 +25,7 @@ nav_order: 2
 
 </div>
 
-# Peer-reviewed national conference papers
+### Peer-reviewed national conference papers
 
 <div class="publications">
 
@@ -33,10 +33,18 @@ nav_order: 2
 
 </div>
 
-# Peer-reviewed abstracts and extended abstracts
+### Peer-reviewed abstracts and extended abstracts
 
 <div class="publications">
 
 {% bibliography --file abstracts %}
+
+</div>
+
+### Theses
+
+<div class="publications">
+
+{% bibliography --file theses %}
 
 </div>
