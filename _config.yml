@@ -304,7 +304,7 @@ scholar:
   locale: en
 
   source: /_bibliography/
-  bibliography: papers.bib
+  bibliographya: papers.bib
   bib_journals: papers.bib 
   bibliography_template: bib
   # Note: if you have latex math in your bibtex, the latex filter
@@ -315,7 +315,7 @@ scholar:
   replace_strings: true
   join_strings: true
 
-  details_dir: [bibliography, bib_journals]
+  details_dir: bibliography
   details_link: Details
 
   query: "@*"
