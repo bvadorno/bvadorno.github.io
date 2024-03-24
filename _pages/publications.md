@@ -8,6 +8,13 @@ nav_order: 2
 ---
 
 <!-- _pages/publications.md -->
+
+<div class="journals">
+
+{% bibliography_journals %}
+
+</div>
+
 <div class="publications">
 
 {% bibliography %}
