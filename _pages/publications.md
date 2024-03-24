@@ -7,14 +7,36 @@ nav: true
 nav_order: 2
 ---
 
-<!-- _pages/publications.md -->
 
+
+<!-- _pages/publications.md -->
+# Peer-reviewed journal papers
 <div class="publications">
 
 {% bibliography --file journals %}
 
+</div>
+
+# Peer-reviewed international conference papers
+
+<div class="publications">
+
 {% bibliography --file international_conferences %}
 
+</div>
+
+# Peer-reviewed national conference papers
+
+<div class="publications">
+
 {% bibliography --file national_conferences %}
+
+</div>
+
+# Peer-reviewed abstracts and extended abstracts
+
+<div class="publications">
+
+{% bibliography --file abstracts %}
 
 </div>
