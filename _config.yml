@@ -298,7 +298,7 @@ display_categories: ["blockquotes"] # these categories will be displayed on the 
 scholar:
 
   last_name: [Adorno]
-  first_name: [Bruno, V.]
+  first_name: [Bruno Vilhena]
 
   style: ieee-with-url
   locale: en
