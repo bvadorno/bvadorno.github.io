@@ -16,7 +16,7 @@ footer_text: >
 keywords: dual quaternion algebra, robotics, legged robot, mobile manipulator  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: /assets/img/Stonehenge_01_Jan_2024_bright.jpg # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: Stonehenge_01_Jan_2024_bright.jpg # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://bvadorno.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
