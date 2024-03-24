@@ -9,14 +9,12 @@ nav_order: 2
 
 <!-- _pages/publications.md -->
 
-<div class="journals">
+<div class="publications">
 
 {% bibliography --file journals %}
 
-</div>
-
-<div class="international_conferences">
-
 {% bibliography --file international_conferences %}
+
+{% bibliography --file national_conferences %}
 
 </div>
