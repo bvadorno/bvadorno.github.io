@@ -9,8 +9,9 @@ nav_order: 2
 
 <!-- _pages/publications.md -->
 
-<div class="publications">
+### Journals
+<!--  <div class="publications"> -->
 
-{% bibliographya %}
+{% bibliography --file journals %}
 
-</div>
+<!--  </div> -->
