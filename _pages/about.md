@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle:  <i>Sellafield / Royal Academy of Engineering Senior Research Fellow </i> ⬦ <i>Senior Lecturer in Robotics</i>
 
