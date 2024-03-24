@@ -79,10 +79,10 @@ x_username: bvadorno # your X handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: bruno-vilhena-adorno # your LinkedIn user name
 telegram_username: # your Telegram user name
-scholar_userid: DsPYm9kAAAAJ&hl# your Google Scholar ID
+scholar_userid: DsPYm9kAAAAJ&hl # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-orcid_id: # your ORCID ID
+orcid_id: 0000-0002-5080-8724 # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
@@ -296,8 +296,9 @@ display_categories: ["blockquotes"] # these categories will be displayed on the 
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+
+  last_name: [Adorno]
+  first_name: [Bruno, V.]
 
   style: acm-siggraph
   locale: en
