@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <i>Senior Lecturer in Robotics and Sellafield / Royal Academy of Engineering Senior Research Fellow in Cooperative Legged Robots in Challenging Environments</i>
+subtitle: <i>Sellafield / Royal Academy of Engineering Senior Research Fellow in Cooperative Legged Robots in Challenging Environments :heavy_plus_sign: Senior Lecturer in Robotics</i>
 
 profile:
   align: right
-  image: Edinburgh-Dec-2021.jpg
+  image: Stonehenge_01_Jan_2024_bright.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
     <h6>
