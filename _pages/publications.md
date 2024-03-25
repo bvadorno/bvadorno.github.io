@@ -17,7 +17,6 @@ nav_order: 2
 
 </div>
 
-***
 
 ### Preprints
 
@@ -27,7 +26,6 @@ nav_order: 2
 
 </div>
 
-***
 
 ### Book chapters
 <div class="publications">
@@ -36,7 +34,6 @@ nav_order: 2
 
 </div>
 
-***
 
 ### Peer-reviewed international conference papers
 
@@ -46,7 +43,6 @@ nav_order: 2
 
 </div>
 
-***
 
 ### Peer-reviewed national conference papers
 
@@ -56,7 +52,6 @@ nav_order: 2
 
 </div>
 
-***
 
 ### Peer-reviewed abstracts and extended abstracts
 
@@ -66,7 +61,6 @@ nav_order: 2
 
 </div>
 
-***
 
 ### Theses
 
