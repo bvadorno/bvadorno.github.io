@@ -32,6 +32,18 @@ nav_order: 2
 ---
 <br>
 
+### Book chapters
+<div class="publications">
+
+{% bibliography --file book_chapters %}
+
+</div>
+
+<br>
+---
+<br>
+
+
 ### Peer-reviewed international conference papers
 
 <div class="publications">
