@@ -10,12 +10,27 @@ nav_order: 2
 
 
 <!-- _pages/publications.md -->
-# Peer-reviewed journal papers
+### Peer-reviewed journal papers
 <div class="publications">
 
 {% bibliography --file journals %}
 
 </div>
+
+<br>
+---
+<br>
+
+### Preprints
+<div class="publications">
+
+{% bibliography --file preprints %}
+
+</div>
+
+<br>
+---
+<br>
 
 ### Peer-reviewed international conference papers
 
@@ -25,6 +40,10 @@ nav_order: 2
 
 </div>
 
+<br>
+---
+<br>
+
 ### Peer-reviewed national conference papers
 
 <div class="publications">
@@ -33,6 +52,11 @@ nav_order: 2
 
 </div>
 
+
+<br>
+---
+<br>
+
 ### Peer-reviewed abstracts and extended abstracts
 
 <div class="publications">
@@ -40,6 +64,10 @@ nav_order: 2
 {% bibliography --file abstracts %}
 
 </div>
+
+<br>
+---
+<br>
 
 ### Theses
 
