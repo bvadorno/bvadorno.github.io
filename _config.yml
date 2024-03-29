@@ -318,7 +318,7 @@ scholar:
   details_link: Details
 
   query: "@*"
-  # group_by: year
+  group_by: year
   group_order: descending
   # type_order: [thesis, conference, inproceedings, incollection, unpublished, misc, techreport, article]
 
