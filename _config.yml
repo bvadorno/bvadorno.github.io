@@ -297,10 +297,10 @@ display_categories: ["blockquotes"] # these categories will be displayed on the 
 
 scholar:
 
-  last_name: [Adorno]
-  first_name: [Bruno Vilhena, Bruno V., B. V.]
+  last_name: [Adorno, Vilhena Adorno]
+  first_name: [Bruno Vilhena, Bruno V., B. V., Bruno, B.]
 
-  style: apa
+  style: chicago-fullnote-bibliography
   locale: en
 
   source: /_bibliography/
