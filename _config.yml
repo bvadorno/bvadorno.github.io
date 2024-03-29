@@ -319,7 +319,7 @@ scholar:
 
   query: "@*"
   # group_by: year
-  # group_order: descending
+  group_order: descending
   # type_order: [thesis, conference, inproceedings, incollection, unpublished, misc, techreport, article]
 
 # Display different badges withs stats for your publications
