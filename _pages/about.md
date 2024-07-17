@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle:  <i>Sellafield / Royal Academy of Engineering Senior Research Fellow </i> ⬦ <i>Senior Lecturer in Robotics</i>
+subtitle:  <i>Sellafield / Royal Academy of Engineering Senior Research Fellow </i> ⬦ <i>Reader in Robotics</i>
 
 profile:
   align: right
