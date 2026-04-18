@@ -11,7 +11,7 @@ profile:
   more_info: >
     <h6>
     <p>3rd floor, Core 1E, Office 1</p>
-    <p>Engineering Building A</p>
+    <p>Nancy Rothwell Building</p>
     <p>University of Manchester</p>
     <p>Oxford Road</p>
     <p>Manchester, UK, M13 9PL </p>
@@ -21,7 +21,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 

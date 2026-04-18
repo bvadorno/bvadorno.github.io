@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Adorno Lab # the website title (if blank, full name will be used instead)
+title: Bruno Vilhena Adorno, PhD # the website title (if blank, full name will be used instead)
 first_name: Bruno
 middle_name: Vilhena
 last_name: Adorno
@@ -155,15 +155,15 @@ newsletter:
 
 collections:
   books:
-    output: true
+    output: false
   news:
     defaults:
       layout: post
-    output: true
+    output: false
   projects:
-    output: true
+    output: false
   teachings:
-    output: true
+    output: false
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
