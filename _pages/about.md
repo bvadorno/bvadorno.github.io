@@ -37,7 +37,7 @@ Before joining the University of Manchester, I was an associate professor with t
 
 I’m an IEEE Senior Member and Associate Editor for the IEEE Robotics and Automation Letters ([IEEE RA-L](https://www.ieee-ras.org/publications/ra-l)).
 
-I received both a five-year BSc degree (2004) in Mechatronic Engineering and a two-year research MSc degree (2008) in Electrical Engineering from the [University of Brasilia](https://unb.br/) (Brazil) and a PhD degree (2011) from the [University of Montpellier](https://www.umontpellier.fr/en/) (France).
+I received both a five-year BSc degree (2004) in Mechatronic Engineering and a research MSc degree (2008) in Electrical Engineering from the [University of Brasilia](https://unb.br/) (Brazil) and a PhD degree (2011) from the [University of Montpellier](https://www.umontpellier.fr/en/) (France).
 
 My current research interests include both practical and theoretical aspects of robot kinematics, dynamics, and control with applications to mobile manipulators, legged robots, and cooperative manipulation systems.
 
