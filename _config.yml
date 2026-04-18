@@ -206,8 +206,11 @@ exclude:
   - vendor
   - _news/announcement_*.md
   - _pages/blog.md
+  - _pages/projects.md
+  - _pages/teaching.md
+  - _pages/people.md
   - _posts/
-  - _projects/
+  - _projects/?_project.md
   - assets/jupyter/blog.ipynb
 keep_files:
   - CNAME
