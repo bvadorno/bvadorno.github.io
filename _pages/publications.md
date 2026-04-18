@@ -13,8 +13,15 @@ nav_order: 2
 
 {% include bib_search.liquid %}
 
-<div class="publications">
+<div class="journals">
 
 {% bibliography --query @article %}
 
 </div>
+
+<div class="conferences">
+
+{% bibliography --query @inproceedings %}
+
+</div>
+
