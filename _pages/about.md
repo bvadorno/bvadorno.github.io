@@ -6,7 +6,7 @@ subtitle: <i>Reader in Robotics</i> ⬦ <i>Sellafield / Royal Academy of Enginee
 
 profile:
   align: right
-  image: july-2025.jpeg
+  image: july-2025-square.jpeg
   image_circular: true # crops the image to make it circular
   more_info: >
     <h6>
