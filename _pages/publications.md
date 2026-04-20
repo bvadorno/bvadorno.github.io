@@ -17,17 +17,9 @@ nav_order: 2
 
 {% bibliography
     query=@article
-    group_by=year
     sort_by=year
     order=descending
 %}
-
-<!-- {% bibliography
-   query=not @article
-   group_by=type,year
-   sort_by=year
-   order=descending
-%} -->
 
 </div>
 
