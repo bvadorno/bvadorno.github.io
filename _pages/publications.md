@@ -13,7 +13,7 @@ nav_order: 2
 
 <div class="publications">
 
-{% bibliography --query 'type=article'%}
+{% bibliography --query '@*'%}
 
 </div>
 
