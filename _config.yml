@@ -310,7 +310,7 @@ scholar:
   details_dir: bibliography
   details_link: Details
 
-  query: "@*"
+  # query: "@*"
   group_by: type, year
   group_order: descending
   
@@ -320,7 +320,7 @@ scholar:
     book: Books
     unpublished: Preprints
     misc: Preprints
-    techreport: Preprints
+    techreport: Book Preprints
 
 
 # Display different badges withs stats for your publications
