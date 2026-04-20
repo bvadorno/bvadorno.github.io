@@ -15,6 +15,14 @@ nav_order: 2
 
 {% bibliography --query @article %}
 
+{% bibliography --query @inproceedings %}
+
+{% bibliography --query @techreport %}
+
+{% bibliography --query @misc %}
+
+{% bibliography --query @phdthesis %}
+
 </div>
 
 
