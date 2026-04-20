@@ -11,11 +11,9 @@ nav_order: 2
 
 <!-- Bibsearch Feature -->
 
-{% include --query 'type=article' %}
-
 <div class="publications">
 
-{% bibliography %}
+{% bibliography --query 'type=article'%}
 
 </div>
 
