@@ -313,6 +313,14 @@ scholar:
   query: "@*"
   group_by: type, year
   group_order: descending
+  
+  type_names:
+    article: Journal Articles
+    inproceedings: Conference Papers
+    book: Books
+    unpublished: Preprints
+    misc: Miscellaneous
+
 
 # Display different badges withs stats for your publications
 # Customize badge behavior in _layouts/bib.liquid
