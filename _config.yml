@@ -290,7 +290,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Adorno, Vilhena Adorno]
+  last_name: [Adorno, Vilhena Adorno, V. Adorno]
   first_name: [Bruno Vilhena, Bruno V., B. V., Bruno, B.]
 
   style: apa
