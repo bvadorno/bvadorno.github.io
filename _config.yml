@@ -319,7 +319,8 @@ scholar:
     inproceedings: Conference Papers
     book: Books
     unpublished: Preprints
-    misc: Miscellaneous
+    misc: Preprints
+    techreport: Preprints
 
 
 # Display different badges withs stats for your publications

@@ -22,12 +22,12 @@ nav_order: 2
     order=descending
 %}
 
-{% bibliography
+<!-- {% bibliography
    query=not @article
    group_by=type,year
    sort_by=year
    order=descending
-%}
+%} -->
 
 </div>
 
