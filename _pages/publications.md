@@ -11,10 +11,15 @@ nav_order: 2
 
 <!-- Bibsearch Feature -->
 
-<div class="publications">
+---
+layout: page
+title: Publications
+bibliography: publications
+bibliography_filters:
+  - type: article
 
-{% bibliography --query '@*'%}
+---
 
-</div>
+
 
 
