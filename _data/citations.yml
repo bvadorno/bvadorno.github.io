@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-27'
+  last_updated: '2026-05-01'
 papers:
   DsPYm9kAAAAJ:0EnyYjriUFMC:
     citations: 30
@@ -138,7 +138,7 @@ papers:
     title: Set-point control of robot end-effector pose using dual quaternion feedback
     year: '2018'
   DsPYm9kAAAAJ:IUKN3-7HHlwC:
-    citations: 123
+    citations: 124
     title: Dynamic active constraints for surgical robots using vector field inequalities
     year: '2019'
   DsPYm9kAAAAJ:KbBQZpvPDL4C:
