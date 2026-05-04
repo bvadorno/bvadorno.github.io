@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-01'
+  last_updated: '2026-05-04'
 papers:
   DsPYm9kAAAAJ:0EnyYjriUFMC:
     citations: 30
@@ -262,7 +262,7 @@ papers:
     title: A unified framework for the teleoperation of surgical robots in constrained workspaces
     year: '2019'
   DsPYm9kAAAAJ:fFSKOagxvKUC:
-    citations: 12
+    citations: 13
     title: Stable-by-Design Kinematic Control Based on Optimization
     year: '2020'
   DsPYm9kAAAAJ:fbc8zXXH2BUC:
