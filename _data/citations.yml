@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-04'
+  last_updated: '2026-05-22'
 papers:
   DsPYm9kAAAAJ:0EnyYjriUFMC:
     citations: 30
@@ -42,7 +42,7 @@ papers:
     title: Design of an Adaptive Controller to Improve the Condition Number of the Inertia Matrix of Serial Manipulators
     year: '2018'
   DsPYm9kAAAAJ:5icHVeHT4IsC:
-    citations: 22
+    citations: 25
     title: Dynamics of mobile manipulators using dual quaternion algebra
     year: '2022'
   DsPYm9kAAAAJ:5nxA0vEk-isC:
@@ -62,7 +62,7 @@ papers:
     title: Assistance Task Using a Manipulator Robot and User Kinematics Feedback
     year: '2013'
   DsPYm9kAAAAJ:8xutWZnSdmoC:
-    citations: 34
+    citations: 35
     title: "Robust H\u221E kinematic control of manipulator robots using dual quaternion algebra"
     year: '2021'
   DsPYm9kAAAAJ:9pM33mqn1YgC:
@@ -70,7 +70,7 @@ papers:
     title: A new algebraic approach for the description of robotic manipulation tasks
     year: '2015'
   DsPYm9kAAAAJ:9yKSN-GCB0IC:
-    citations: 114
+    citations: 115
     title: Dual position control strategies using the cooperative dual task-space framework
     year: '2010'
   DsPYm9kAAAAJ:AHdEip9mkN0C:
@@ -86,7 +86,7 @@ papers:
     title: Receding Horizon Contact Planning for Advanced Motions in Hexapod Robots
     year: '2023'
   DsPYm9kAAAAJ:Aul-kAQHnToC:
-    citations: 17
+    citations: 18
     title: Adaptive Constrained Kinematic Control Using Partial or Complete Task-Space Measurements
     year: '2022'
   DsPYm9kAAAAJ:BJbdYPG6LGMC:
@@ -102,7 +102,7 @@ papers:
     title: Planning and Control of Mobile Manipulators for Inspection of Clustered Environments
     year: '2026'
   DsPYm9kAAAAJ:DUooU5lO8OsC:
-    citations: 72
+    citations: 74
     title: 'Robot Kinematic Modeling and Control Based on Dual Quaternion Algebra --- Part I: Fundamentals'
     year: '2017'
   DsPYm9kAAAAJ:Ehil0879vHcC:
@@ -138,7 +138,7 @@ papers:
     title: Set-point control of robot end-effector pose using dual quaternion feedback
     year: '2018'
   DsPYm9kAAAAJ:IUKN3-7HHlwC:
-    citations: 124
+    citations: 126
     title: Dynamic active constraints for surgical robots using vector field inequalities
     year: '2019'
   DsPYm9kAAAAJ:KbBQZpvPDL4C:
@@ -226,7 +226,7 @@ papers:
     title: Constraint-based Gait Control Using Differential Inequalities
     year: '2019'
   DsPYm9kAAAAJ:a3BOlSfXSfwC:
-    citations: 81
+    citations: 82
     title: 'DQ Robotics: A Library for Robot Modeling and Control'
     year: '2020'
   DsPYm9kAAAAJ:a9-T7VOCCH8C:
@@ -253,6 +253,10 @@ papers:
     citations: 9
     title: "Modelagem e controle de corpo completo usando quat\xE9rnios duais para um manipulador m\xF3vel"
     year: '2014'
+  DsPYm9kAAAAJ:cK4Rrx0J3m0C:
+    citations: 0
+    title: A low-cost mockup to simulate robotic laser cutting in nuclear decommissioning
+    year: '2026'
   DsPYm9kAAAAJ:d1gkVwhDpl0C:
     citations: 5
     title: "Um m\xE9todo de planejamento de trajet\xF3ria para rob\xF4s m\xF3veis atrav\xE9s de passeios aleat\xF3rios adaptativos e mapa de rotas"
@@ -278,7 +282,7 @@ papers:
     title: 3D robust online motion planning for steerable needles in dynamic workspaces using duty-cycled rotation
     year: '2014'
   DsPYm9kAAAAJ:jL-93Qbq4QoC:
-    citations: 2
+    citations: 3
     title: A Nonlinear Estimator for Dead Reckoning of Aquatic Surface Vehicles Using an IMU and a Doppler Velocity Log
     year: '2024'
   DsPYm9kAAAAJ:jgBuDB5drN8C:
