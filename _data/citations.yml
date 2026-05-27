@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-22'
+  last_updated: '2026-05-27'
 papers:
   DsPYm9kAAAAJ:0EnyYjriUFMC:
     citations: 30
@@ -70,7 +70,7 @@ papers:
     title: A new algebraic approach for the description of robotic manipulation tasks
     year: '2015'
   DsPYm9kAAAAJ:9yKSN-GCB0IC:
-    citations: 115
+    citations: 116
     title: Dual position control strategies using the cooperative dual task-space framework
     year: '2010'
   DsPYm9kAAAAJ:AHdEip9mkN0C:
@@ -110,7 +110,7 @@ papers:
     title: Task-space admittance controller with adaptive inertia matrix conditioning
     year: '2021'
   DsPYm9kAAAAJ:F9fV5C73w3QC:
-    citations: 20
+    citations: 21
     title: Coupled Task-Space Admittance Controller Using Dual Quaternion Logarithmic Mapping
     year: '2020'
   DsPYm9kAAAAJ:FAceZFleit8C:
@@ -138,7 +138,7 @@ papers:
     title: Set-point control of robot end-effector pose using dual quaternion feedback
     year: '2018'
   DsPYm9kAAAAJ:IUKN3-7HHlwC:
-    citations: 126
+    citations: 125
     title: Dynamic active constraints for surgical robots using vector field inequalities
     year: '2019'
   DsPYm9kAAAAJ:KbBQZpvPDL4C:
