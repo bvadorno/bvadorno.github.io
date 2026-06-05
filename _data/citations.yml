@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-05-27'
+  last_updated: '2026-06-05'
 papers:
   DsPYm9kAAAAJ:0EnyYjriUFMC:
-    citations: 30
+    citations: 31
     title: Kinematic modeling and control for human-robot cooperation considering different interaction roles
     year: '2015'
   DsPYm9kAAAAJ:0izLItjtcgwC:
@@ -138,7 +138,7 @@ papers:
     title: Set-point control of robot end-effector pose using dual quaternion feedback
     year: '2018'
   DsPYm9kAAAAJ:IUKN3-7HHlwC:
-    citations: 125
+    citations: 127
     title: Dynamic active constraints for surgical robots using vector field inequalities
     year: '2019'
   DsPYm9kAAAAJ:KbBQZpvPDL4C:
@@ -258,11 +258,11 @@ papers:
     title: A low-cost mockup to simulate robotic laser cutting in nuclear decommissioning
     year: '2026'
   DsPYm9kAAAAJ:d1gkVwhDpl0C:
-    citations: 5
+    citations: 6
     title: "Um m\xE9todo de planejamento de trajet\xF3ria para rob\xF4s m\xF3veis atrav\xE9s de passeios aleat\xF3rios adaptativos e mapa de rotas"
     year: '2006'
   DsPYm9kAAAAJ:dBIO0h50nwkC:
-    citations: 56
+    citations: 57
     title: A unified framework for the teleoperation of surgical robots in constrained workspaces
     year: '2019'
   DsPYm9kAAAAJ:fFSKOagxvKUC:
@@ -334,7 +334,7 @@ papers:
     title: Maintaining Visibility of Dynamic Objects in Cluttered Environments Using Mobile Manipulators and Vector Field Inequalities
     year: '2023'
   DsPYm9kAAAAJ:u-x6o8ySG0sC:
-    citations: 145
+    citations: 146
     title: Position and orientation control of robot manipulators using dual quaternion feedback
     year: '2010'
   DsPYm9kAAAAJ:u5HHmVD_uO8C:
@@ -354,7 +354,7 @@ papers:
     title: 'Design requirements of robotic systems for assisting percutaneous tracheostomy: a scoping review and development framework'
     year: '2023'
   DsPYm9kAAAAJ:wMgC3FpKEyYC:
-    citations: 1
+    citations: 2
     title: Control Strategies Using the Extended Cooperative Dual Task-Space
     year: '2024'
   DsPYm9kAAAAJ:zCSUwVk65WsC:
