@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-05'
+  last_updated: '2026-06-10'
 papers:
   DsPYm9kAAAAJ:0EnyYjriUFMC:
     citations: 31
@@ -262,7 +262,7 @@ papers:
     title: "Um m\xE9todo de planejamento de trajet\xF3ria para rob\xF4s m\xF3veis atrav\xE9s de passeios aleat\xF3rios adaptativos e mapa de rotas"
     year: '2006'
   DsPYm9kAAAAJ:dBIO0h50nwkC:
-    citations: 57
+    citations: 56
     title: A unified framework for the teleoperation of surgical robots in constrained workspaces
     year: '2019'
   DsPYm9kAAAAJ:fFSKOagxvKUC:
