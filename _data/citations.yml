@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-10'
+  last_updated: '2026-06-17'
 papers:
   DsPYm9kAAAAJ:0EnyYjriUFMC:
     citations: 31
@@ -30,7 +30,7 @@ papers:
     title: Planejamento de rotas
     year: '2014'
   DsPYm9kAAAAJ:4fGpz3EwCPoC:
-    citations: 30
+    citations: 31
     title: Switching strategy for flexible task execution using the cooperative dual task-space framework
     year: '2014'
   DsPYm9kAAAAJ:4hFrxpcac9AC:
@@ -70,7 +70,7 @@ papers:
     title: A new algebraic approach for the description of robotic manipulation tasks
     year: '2015'
   DsPYm9kAAAAJ:9yKSN-GCB0IC:
-    citations: 116
+    citations: 117
     title: Dual position control strategies using the cooperative dual task-space framework
     year: '2010'
   DsPYm9kAAAAJ:AHdEip9mkN0C:
@@ -138,7 +138,7 @@ papers:
     title: Set-point control of robot end-effector pose using dual quaternion feedback
     year: '2018'
   DsPYm9kAAAAJ:IUKN3-7HHlwC:
-    citations: 127
+    citations: 128
     title: Dynamic active constraints for surgical robots using vector field inequalities
     year: '2019'
   DsPYm9kAAAAJ:KbBQZpvPDL4C:
@@ -166,7 +166,7 @@ papers:
     title: Biped Walking Control Based on Quadratic Programming and Differential Inequalities
     year: '2020'
   DsPYm9kAAAAJ:OTTXONDVkokC:
-    citations: 31
+    citations: 33
     title: Active Constraints using Vector Field Inequalities for Surgical Robots
     year: '2018'
   DsPYm9kAAAAJ:P7Ujq4OLJYoC:
@@ -226,7 +226,7 @@ papers:
     title: Constraint-based Gait Control Using Differential Inequalities
     year: '2019'
   DsPYm9kAAAAJ:a3BOlSfXSfwC:
-    citations: 82
+    citations: 83
     title: 'DQ Robotics: A Library for Robot Modeling and Control'
     year: '2020'
   DsPYm9kAAAAJ:a9-T7VOCCH8C:
@@ -238,7 +238,7 @@ papers:
     title: The cross-motion invariant group and its application to kinematics
     year: '2017'
   DsPYm9kAAAAJ:artPoR2Yc-kC:
-    citations: 1
+    citations: 2
     title: Task Planning and Motion Control with Temporal Logic Specifications
     year: '2023'
   DsPYm9kAAAAJ:bKqednn6t2AC:
@@ -258,7 +258,7 @@ papers:
     title: A low-cost mockup to simulate robotic laser cutting in nuclear decommissioning
     year: '2026'
   DsPYm9kAAAAJ:d1gkVwhDpl0C:
-    citations: 6
+    citations: 5
     title: "Um m\xE9todo de planejamento de trajet\xF3ria para rob\xF4s m\xF3veis atrav\xE9s de passeios aleat\xF3rios adaptativos e mapa de rotas"
     year: '2006'
   DsPYm9kAAAAJ:dBIO0h50nwkC:
