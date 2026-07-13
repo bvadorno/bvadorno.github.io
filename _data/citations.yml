@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-06-17'
+  last_updated: '2026-07-13'
 papers:
   DsPYm9kAAAAJ:0EnyYjriUFMC:
-    citations: 31
+    citations: 32
     title: Kinematic modeling and control for human-robot cooperation considering different interaction roles
     year: '2015'
   DsPYm9kAAAAJ:0izLItjtcgwC:
-    citations: 8
+    citations: 9
     title: Whole-body modeling and hierarchical control of a humanoid robot based on dual quaternion algebra
     year: '2016'
   DsPYm9kAAAAJ:1lhNe0rCu4AC:
@@ -50,7 +50,7 @@ papers:
     title: Design Of Singularity-robust and Task-priority Kinematic Controllers in the Unit Dual Quaternion Space
     year: '2013'
   DsPYm9kAAAAJ:6ZxmRoH8BuwC:
-    citations: 15
+    citations: 16
     title: Whole-body control of a mobile manipulator using feedback linearization and dual quaternion algebra
     year: '2018'
   DsPYm9kAAAAJ:8d8msizDQcsC:
@@ -62,7 +62,7 @@ papers:
     title: Assistance Task Using a Manipulator Robot and User Kinematics Feedback
     year: '2013'
   DsPYm9kAAAAJ:8xutWZnSdmoC:
-    citations: 35
+    citations: 36
     title: "Robust H\u221E kinematic control of manipulator robots using dual quaternion algebra"
     year: '2021'
   DsPYm9kAAAAJ:9pM33mqn1YgC:
@@ -70,7 +70,7 @@ papers:
     title: A new algebraic approach for the description of robotic manipulation tasks
     year: '2015'
   DsPYm9kAAAAJ:9yKSN-GCB0IC:
-    citations: 117
+    citations: 119
     title: Dual position control strategies using the cooperative dual task-space framework
     year: '2010'
   DsPYm9kAAAAJ:AHdEip9mkN0C:
@@ -86,7 +86,7 @@ papers:
     title: Receding Horizon Contact Planning for Advanced Motions in Hexapod Robots
     year: '2023'
   DsPYm9kAAAAJ:Aul-kAQHnToC:
-    citations: 18
+    citations: 19
     title: Adaptive Constrained Kinematic Control Using Partial or Complete Task-Space Measurements
     year: '2022'
   DsPYm9kAAAAJ:BJbdYPG6LGMC:
@@ -102,7 +102,7 @@ papers:
     title: Planning and Control of Mobile Manipulators for Inspection of Clustered Environments
     year: '2026'
   DsPYm9kAAAAJ:DUooU5lO8OsC:
-    citations: 74
+    citations: 75
     title: 'Robot Kinematic Modeling and Control Based on Dual Quaternion Algebra --- Part I: Fundamentals'
     year: '2017'
   DsPYm9kAAAAJ:Ehil0879vHcC:
@@ -138,7 +138,7 @@ papers:
     title: Set-point control of robot end-effector pose using dual quaternion feedback
     year: '2018'
   DsPYm9kAAAAJ:IUKN3-7HHlwC:
-    citations: 128
+    citations: 133
     title: Dynamic active constraints for surgical robots using vector field inequalities
     year: '2019'
   DsPYm9kAAAAJ:KbBQZpvPDL4C:
@@ -226,7 +226,7 @@ papers:
     title: Constraint-based Gait Control Using Differential Inequalities
     year: '2019'
   DsPYm9kAAAAJ:a3BOlSfXSfwC:
-    citations: 83
+    citations: 84
     title: 'DQ Robotics: A Library for Robot Modeling and Control'
     year: '2020'
   DsPYm9kAAAAJ:a9-T7VOCCH8C:
@@ -262,7 +262,7 @@ papers:
     title: "Um m\xE9todo de planejamento de trajet\xF3ria para rob\xF4s m\xF3veis atrav\xE9s de passeios aleat\xF3rios adaptativos e mapa de rotas"
     year: '2006'
   DsPYm9kAAAAJ:dBIO0h50nwkC:
-    citations: 56
+    citations: 58
     title: A unified framework for the teleoperation of surgical robots in constrained workspaces
     year: '2019'
   DsPYm9kAAAAJ:fFSKOagxvKUC:
@@ -342,7 +342,7 @@ papers:
     title: "Planejamento de trajet\xF3ria para o rob\xF4 omni utilizando o algoritmo mapa de rotas probabil\xEDstico"
     year: '2005'
   DsPYm9kAAAAJ:umqufdRvDiIC:
-    citations: 64
+    citations: 66
     title: Hybrid kinematic control for rigid body pose stabilization using dual quaternions
     year: '2017'
   DsPYm9kAAAAJ:v1_lew4L6wgC:
@@ -360,7 +360,7 @@ papers:
   DsPYm9kAAAAJ:zCSUwVk65WsC:
     citations: 2
     title: Object-Reconstruction-Aware Whole-body Control of Mobile Manipulators
-    year: '2025'
+    year: '2026'
   DsPYm9kAAAAJ:zYLM7Y9cAGgC:
     citations: 25
     title: Towards a cooperative framework for interactive manipulation involving a human and a humanoid
