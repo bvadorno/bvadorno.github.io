@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-13'
+  last_updated: '2026-07-31'
 papers:
   DsPYm9kAAAAJ:0EnyYjriUFMC:
     citations: 32
@@ -50,7 +50,7 @@ papers:
     title: Design Of Singularity-robust and Task-priority Kinematic Controllers in the Unit Dual Quaternion Space
     year: '2013'
   DsPYm9kAAAAJ:6ZxmRoH8BuwC:
-    citations: 16
+    citations: 17
     title: Whole-body control of a mobile manipulator using feedback linearization and dual quaternion algebra
     year: '2018'
   DsPYm9kAAAAJ:8d8msizDQcsC:
@@ -86,7 +86,7 @@ papers:
     title: Receding Horizon Contact Planning for Advanced Motions in Hexapod Robots
     year: '2023'
   DsPYm9kAAAAJ:Aul-kAQHnToC:
-    citations: 19
+    citations: 18
     title: Adaptive Constrained Kinematic Control Using Partial or Complete Task-Space Measurements
     year: '2022'
   DsPYm9kAAAAJ:BJbdYPG6LGMC:
@@ -102,7 +102,7 @@ papers:
     title: Planning and Control of Mobile Manipulators for Inspection of Clustered Environments
     year: '2026'
   DsPYm9kAAAAJ:DUooU5lO8OsC:
-    citations: 75
+    citations: 76
     title: 'Robot Kinematic Modeling and Control Based on Dual Quaternion Algebra --- Part I: Fundamentals'
     year: '2017'
   DsPYm9kAAAAJ:Ehil0879vHcC:
@@ -122,7 +122,7 @@ papers:
     title: Wrench Control based on Dual Quaternion Algebra
     year: '2019'
   DsPYm9kAAAAJ:GtLg2Ama23sC:
-    citations: 40
+    citations: 41
     title: Parsimonious kinematic control of highly redundant robots
     year: '2015'
   DsPYm9kAAAAJ:HIFyuExEbWQC:
@@ -166,7 +166,7 @@ papers:
     title: Biped Walking Control Based on Quadratic Programming and Differential Inequalities
     year: '2020'
   DsPYm9kAAAAJ:OTTXONDVkokC:
-    citations: 33
+    citations: 32
     title: Active Constraints using Vector Field Inequalities for Surgical Robots
     year: '2018'
   DsPYm9kAAAAJ:P7Ujq4OLJYoC:
@@ -226,7 +226,7 @@ papers:
     title: Constraint-based Gait Control Using Differential Inequalities
     year: '2019'
   DsPYm9kAAAAJ:a3BOlSfXSfwC:
-    citations: 84
+    citations: 83
     title: 'DQ Robotics: A Library for Robot Modeling and Control'
     year: '2020'
   DsPYm9kAAAAJ:a9-T7VOCCH8C:
@@ -350,7 +350,7 @@ papers:
     title: A receding-horizon multi-contact motion planner for legged robots in challenging environments
     year: '2026'
   DsPYm9kAAAAJ:vDZJ-YLwNdEC:
-    citations: 9
+    citations: 8
     title: 'Design requirements of robotic systems for assisting percutaneous tracheostomy: a scoping review and development framework'
     year: '2023'
   DsPYm9kAAAAJ:wMgC3FpKEyYC:
