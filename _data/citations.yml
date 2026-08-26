@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-17'
+  last_updated: '2026-08-26'
 papers:
   DsPYm9kAAAAJ:0EnyYjriUFMC:
     citations: 31
@@ -42,7 +42,7 @@ papers:
     title: Design of an Adaptive Controller to Improve the Condition Number of the Inertia Matrix of Serial Manipulators
     year: '2018'
   DsPYm9kAAAAJ:5icHVeHT4IsC:
-    citations: 26
+    citations: 27
     title: Dynamics of mobile manipulators using dual quaternion algebra
     year: '2022'
   DsPYm9kAAAAJ:5nxA0vEk-isC:
@@ -62,7 +62,7 @@ papers:
     title: Assistance Task Using a Manipulator Robot and User Kinematics Feedback
     year: '2013'
   DsPYm9kAAAAJ:8xutWZnSdmoC:
-    citations: 41
+    citations: 42
     title: "Robust H\u221E kinematic control of manipulator robots using dual quaternion algebra"
     year: '2021'
   DsPYm9kAAAAJ:9pM33mqn1YgC:
@@ -102,7 +102,7 @@ papers:
     title: Planning and Control of Mobile Manipulators for Inspection of Clustered Environments
     year: '2026'
   DsPYm9kAAAAJ:DUooU5lO8OsC:
-    citations: 77
+    citations: 78
     title: 'Robot Kinematic Modeling and Control Based on Dual Quaternion Algebra --- Part I: Fundamentals'
     year: '2017'
   DsPYm9kAAAAJ:Ehil0879vHcC:
@@ -114,7 +114,7 @@ papers:
     title: Coupled Task-Space Admittance Controller Using Dual Quaternion Logarithmic Mapping
     year: '2020'
   DsPYm9kAAAAJ:FAceZFleit8C:
-    citations: 20
+    citations: 21
     title: Detection of movement intention using EEG in a human-robot interaction environment
     year: '2015'
   DsPYm9kAAAAJ:GFxP56DSvIMC:
@@ -138,7 +138,7 @@ papers:
     title: Set-point control of robot end-effector pose using dual quaternion feedback
     year: '2018'
   DsPYm9kAAAAJ:IUKN3-7HHlwC:
-    citations: 134
+    citations: 135
     title: Dynamic active constraints for surgical robots using vector field inequalities
     year: '2019'
   DsPYm9kAAAAJ:KbBQZpvPDL4C:
@@ -186,7 +186,7 @@ papers:
     title: Underwater Whole-body Control using Constrained Feedback Linearisation
     year: '2026'
   DsPYm9kAAAAJ:UeHWp8X0CEIC:
-    citations: 39
+    citations: 40
     title: Adaptive path planning for steerable needles using duty-cycling
     year: '2011'
   DsPYm9kAAAAJ:UebtZRa9Y70C:
@@ -266,7 +266,7 @@ papers:
     title: A unified framework for the teleoperation of surgical robots in constrained workspaces
     year: '2019'
   DsPYm9kAAAAJ:fFSKOagxvKUC:
-    citations: 13
+    citations: 14
     title: Stable-by-Design Kinematic Control Based on Optimization.
     year: '2020'
   DsPYm9kAAAAJ:fbc8zXXH2BUC:
@@ -342,7 +342,7 @@ papers:
     title: "Planejamento de trajet\xF3ria para o rob\xF4 omni utilizando o algoritmo mapa de rotas probabil\xEDstico"
     year: '2005'
   DsPYm9kAAAAJ:umqufdRvDiIC:
-    citations: 64
+    citations: 65
     title: Hybrid kinematic control for rigid body pose stabilization using dual quaternions
     year: '2017'
   DsPYm9kAAAAJ:v1_lew4L6wgC:
