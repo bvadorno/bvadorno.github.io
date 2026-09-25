@@ -31,7 +31,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I wear several hats at [The University of Manchester][#2]. I’m a [Reader](https://en.wikipedia.org/wiki/Reader_(academic_rank)) in Robotics with the [Department of Electrical and Electronic Engineering][#1] <ins>and</ins> a Sellafield / Royal Academy of Engineering Senior Research Fellow. I'm also affiliated with the [Manchester Centre for Robotics and AI](https://www.robotics.manchester.ac.uk/) and the Centre for Robotic Autonomy in Demanding and Long-Lasting Environments ([CRADLE](https://cradlerobotics.co.uk/)).
+I wear several hats at [The University of Manchester][#2]. I’m a [Reader](https://en.wikipedia.org/wiki/Reader_(academic_rank)) in Robotics with the [Department of Electrical and Electronic Engineering][#1] <ins>and</ins> a Sellafield / Royal Academy of Engineering Senior Research Fellow. I'm also affiliated with the [Manchester Centre for Robotics and AI](https://www.robotics.manchester.ac.uk/) and the Centre for Robotic Autonomy in Demanding and Long-Lasting Environments ([CRADLE](https://cradlerobotics.co.uk/)), and I'm the Deputy Academic Lead for the Robotics and AI Collaboration ([RAICo](https://raico.org/)).
 
 Before joining the University of Manchester, I was an associate professor with the Department of Electrical Engineering at the Federal University of Minas Gerais ([UFMG][#3]), Brazil, where I co-founded and co-led the Mechatronics, Control, and Robotics research group ([MACRO][#4]). 
 
